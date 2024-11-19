@@ -4,7 +4,7 @@ var Student = {
     x : null,
     y : undefined,
     z : true,
-    a : BigInt("adfe"),
+    a : BigInt("1234"),
     z : Symbol,
     fun : function Person(name){
         this.name = name;
@@ -15,5 +15,5 @@ var Student = {
 // Person.prototype.greet = function(){
 //     console.log("Hello," + this.name)
 // }
-console.log(Student.a);
-console.log(Student.fun.Person("Aman"));
+console.log(typeof Student.x);
+// console.log(Student.fun.Person("Aman"));

@@ -1,3 +1,5 @@
+// Object created here
+
 const student = {
     name : "Aman",
     age : 25,
