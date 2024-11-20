@@ -1,6 +1,10 @@
 #demo1{
-    color: blueviolet;
+    border: 5px solid red;
+    color: rgb(98, 57, 136);
+    text-align: center 
 }
 #demo{
+    border: 5px solid red;
     color: palevioletred;
+    text-align: center 
 }
