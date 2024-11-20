@@ -1,0 +1,8 @@
+1) Which type of JavaScript language is ___
+
+Object-Oriented
+Object-Based
+Assembly-language
+High-level
+
+Ans-> Object-Based Language
